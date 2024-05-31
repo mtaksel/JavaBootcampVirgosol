@@ -1,18 +1,15 @@
-package Tasks.Week1.Day1;
+package Tasks.Day1;
 
 public class task10 {
 
-    public static void main(String[] args){
+    public static void main(String[] args)
+    {
+        boolean isGoodWeather = false;
+        boolean isMoneyEnough = true;
 
-        boolean havaGuzel = true;  // Örneğin, hava güzel
-        boolean yeterliPara = false; // Örneğin, Ali'nin yeterli parası yok
+        boolean yemegeCikabilmeSarti = isGoodWeather && isMoneyEnough;
 
-        // Ali'nin yemeğe çıkabilmesi için gerekli şartları kontrol et
-        boolean aliYemegeCikabilir = havaGuzel && yeterliPara;
-
-        System.out.println(aliYemegeCikabilir ? "Ali yemeğe çıkabilir." : "Ali yemeğe çıkamaz.");
-
-
+        System.out.println("Yemeğe çıkabilme şartı sağlanmış mı : " + yemegeCikabilmeSarti);
     }
 }
     /*
