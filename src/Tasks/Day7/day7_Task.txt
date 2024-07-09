@@ -1,0 +1,65 @@
+
+### Polimorfizm (Polymorphism)
+
+1. *Task: Geometrik Şekiller*
+   - Bir Shape (Şekil) sınıfı(parent) oluşturun ve bu sınıftan türeyen Circle (Daire) ve Rectangle (Dikdörtgen) sınıfları(child) tanımlayın.
+   - Shape sınıfında calculateArea() metodunu soyut (abstract) olarak tanımlayın ve alt sınıflarda bu metodu implement edin.
+   - Main metodunda farklı türde şekiller oluşturun (Shape referansıyla) ve her birinin alanını hesaplayarak ekrana yazdırın.
+
+2. *Task: Polimorfik Metod Kullanımı*
+   - Bir Animal (Hayvan) sınıfı oluşturun ve bu sınıftan türeyen Dog (Köpek) ve Cat (Kedi) sınıfları tanımlayın.
+   - Animal sınıfında makeSound() adında bir metod tanımlayın ve alt sınıflarda bu metodu override edin.
+   - Main metodunda farklı türde hayvanlar oluşturun (Animal referansıyla) ve her birinin sesini çıkartan metodu çağırarak sonuçları gözlemleyin.
+
+### Soyutlama (Abstraction- Interface)
+
+3. *Task: Banka Hesapları*
+   - Bir BankAccount (Banka Hesabı) abstract sınıfı tanımlayın ve withdraw() ve deposit() gibi abstract metotlar ekleyin.
+   - Bu sınıftan türeyen SavingsAccount (Tasarruf Hesabı) ve CheckingAccount (Mevduat Hesabı) sınıfları oluşturun ve bu metotları implement edin.
+   - Her iki hesap türünden örnekler oluşturun ve her biri için para yatırma (deposit) ve para çekme (withdraw) işlemleri gerçekleştirin.
+
+4. *Task: Araba Arabirimleri*
+   - Vehicle (Araç) adında bir soyut sınıf tanımlayın ve start() ve stop() gibi abstract metotlar ekleyin.
+   - Bu sınıftan türeyen Car (Araba) ve Motorcycle (Motosiklet) sınıfları oluşturun ve bu metotları implement edin.
+   - Her iki araç türünden örnekler oluşturun ve her biri için başlatma (start) ve durdurma (stop) işlemleri gerçekleştirin.
+
+5. **Task: Şekil Hesapları
+
+   - Bir Shape (Şekil) interface'i tanımlayın ve bu interface içinde calculateArea() ve calculatePerimeter() gibi metodlar belirleyin.
+   - Bu interface'i implement eden Circle, Rectangle gibi sınıflar oluşturun.
+   - Her bir sınıfta interface'in metodlarını implement ederek, şekillerin alanını ve çevresini hesaplayın.
+   - Main metodunda farklı türde şekiller (nesneler) oluşturun (Shape referansıyla) ve her birinin alanını ve çevresini hesaplayarak ekrana yazdırın.
+
+6. **Task: Hayvan Davranışları
+
+   - Animal interface'i tanımlayın ve bu interface içinde makeSound() ve move() gibi metodlar belirleyin.
+   - Bu interface'i implement eden Dog, Cat gibi sınıflar oluşturun.
+   - Her bir sınıfta interface'in metodlarını implement ederek, hayvanların ses çıkarma ve hareket etme davranışlarını simüle edin.
+   - Main metodunda farklı türde hayvanlar (nesneler) oluşturun (Animal referansıyla) ve her birinin ses çıkarma ve hareket etme metodlarını çağırarak sonuçları gözlemleyin.   
+
+### Try-Catch Blokları ve Exception handling
+
+7. *Task: Thread.sleep(5000)*
+   - Thread.sleep() metodu kullanın.  
+   - try-catch bloğu ile kodu çalışabilir hale dönüştürün.
+
+8. *Task: throws *
+   - Thread.sleep() metodu kullanın.  
+   - throws keyword ile kodu çalışabilir hale dönüştürün.
+
+9. *Task: throw new Exception() *
+   - Kullanıcıdan pozitif tamsayı girmesini isteyin (Scanner)
+   - Kullanıcı sıfır değerini girmişse "yanlış sayı girdiniz" exception mesajı fırlatan kodu yazınız.  
+   
+
+10. *Task: Bölme İşlemi*
+   - Kullanıcıdan alınan iki sayıyı birbirine bölen bir program yazın.
+   - Bölme işlemi sırasında ortaya çıkabilecek ArithmeticException'ı try-catch bloğu içinde ele alarak uygun bir mesajla kullanıcıya hatayı bildirin.
+
+### static 
+
+11. *Task: static practice*
+   - School isimli bir class oluşturun.
+   - statik değişken olarak schoolName ataması yapın.
+   - static bir method (isFavorForBeingStudent(int age)) tanımlayın. Method parametre olarak yaş bilgisini alsın 6<= age <=16 yaşları arasında ise true değilse false dönen bir yapı kurun.
+   - Başka bir java classından nesne yaratmadan statik değişken ve metoda erişelim.

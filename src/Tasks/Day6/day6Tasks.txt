@@ -1,0 +1,40 @@
+
+1)Bir sınıf oluşturun ve bu sınıfa ait bir nesne oluşturun. Nesnenin bir özelliğini ekrana yazdırın.
+
+2)Bir sınıf oluşturun ve bu sınıf içinde bir metot tanımlayın. Metodu çağırarak ekrana "Hello, World!" yazdırın.
+
+3)Bir sınıf oluşturun ve bu sınıfa ait bir constructor tanımlayın. Constructor içinde bir değeri başlatın ve bu değeri ekrana yazdırın.
+
+4)Bir sınıf oluşturun ve bu sınıf içinde bir metot tanımlayın. Metot bir parametre alsın ve bu parametreyi ekrana yazdırsın.
+
+5)Bir sınıf oluşturun ve bu sınıf içinde bir metot tanımlayın. Metot iki parametre alsın ve bu parametrelerin toplamını ekrana yazdırsın.
+
+6)Bir sınıf oluşturun ve bu sınıfta iki farklı metot tanımlayın. Bu metotlar aynı isme sahip olsun ama farklı parametreler alsın (overloading).
+
+7)Bir sınıf oluşturun ve bu sınıfta private bir değişken tanımlayın. Bu değişkeni getter ve setter metodları ile güncelleyin ve ekrana yazdırın.
+
+8)Bir sınıf oluşturun ve bu sınıfta final bir değişken tanımlayın. Bu değişkenin değerini ekrana yazdırın.
+
+9)Bir sınıf oluşturun ve bu sınıfta iki değişken tanımlayın. Bu değişkenlerin toplamını bir metod içinde hesaplayın ve ekrana yazdırın.
+
+10)Bir sınıf oluşturun ve bu sınıfta bir constructor tanımlayın. Constructor içinde iki değişkeni başlatın ve bu değişkenlerin değerlerini ekrana yazdırın.
+
+11)Bir sınıf oluşturun ve bu sınıfta iki farklı constructor tanımlayın. Constructor'lar farklı parametreler alsın (overloading).
+
+12)Bir üst sınıf ve bir alt sınıf oluşturun. Alt sınıf, üst sınıftan bir metodu miras alsın ve çağırarak ekrana yazdırsın.
+
+13)Bir üst sınıf ve bir alt sınıf oluşturun. Alt sınıf, üst sınıftan bir özelliği miras alsın ve bu özelliği ekrana yazdırsın.
+
+14)Bir sınıf oluşturun ve bu sınıfta protected bir değişken tanımlayın. Bu değişkene bir alt sınıf içinden erişin ve ekrana yazdırın.
+
+15)Bir sınıf oluşturun ve bu sınıfta bir constructor tanımlayın. Constructor içinde bir değeri başlatın ve bu değeri getter metodu ile ekrana yazdırın.
+
+16)Bir üst sınıf ve bir alt sınıf oluşturun. Alt sınıf, üst sınıftan bir constructor miras alsın ve bu constructor'u kullanarak nesne oluşturun.
+
+17)Bir sınıf oluşturun ve bu sınıfta private bir değişken tanımlayın. Bu değişkeni getter ve setter metodları ile güncelleyin ve ekrana yazdırın.
+
+18)Bir sınıf oluşturun ve bu sınıfta bir dizi tanımlayın. Dizi elemanlarını bir metod içinde güncelleyin ve ekrana yazdırın.
+
+19)Bir sınıf oluşturun ve bu sınıfta private bir dizi tanımlayın. Bu dizi elemanlarını getter ve setter metodları ile güncelleyin ve ekrana yazdırın.
+
+20)Bir üst sınıf ve bir alt sınıf oluşturun. Alt sınıf, üst sınıftan bir constructor miras alsın ve bu constructor'u kullanarak nesne oluşturun.

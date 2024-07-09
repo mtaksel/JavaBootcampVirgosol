@@ -1,0 +1,39 @@
+1. ArrayList sınıfını kullanarak bir ArrayList oluşturun ve içine 5 farklı şehir ekleyin. Bu şehirleri ekrana yazdırın.
+
+2. 100 adet rastgele sayının bulunduğu bir dizi oluşturun. Bu sayıların ortalamasını hesaplayın ve ortalamadan büyük olan sayıların kaç tane olduğunu bulun.
+
+3. int, double ve boolean tiplerinde 3 farklı değeri tutan bir ArrayList oluşturun ve bu değerleri ekrana yazdırın.
+
+4. int tipinde bir dizi oluşturun ve kullanıcıdan bir sayı alın. Bu sayının dizide olup olmadığını kontrol edin ve sonucu ekrana yazdırın.
+
+5. int tipinde bir dizi oluşturun ve bu dizideki en büyük sayıyı bulan bir metot yazın. Bu metodu çağırarak sonucu ekrana yazdırın.
+
+6. Bir ArrayList oluşturun ve içine birkaç sayı ekleyin. Belirli bir indekste bulunan sayıyı başka bir sayıyla değiştirin ve sonucu ekrana yazdırın.
+
+7. int tipinde bir dizi oluşturun ve bu diziyi tersine çeviren bir metot yazın. Bu metodu çağırarak sonucu ekrana yazdırın.
+
+8. Bir ArrayList oluşturun ve içine Integer wrapper sınıfı kullanarak birkaç sayı ekleyin. Bu sayıları ekrana yazdırın ve ardından toplamını hesaplayarak ekrana yazdırın.
+
+9. Bir ArrayList oluşturun ve içine birkaç Integer değer ekleyin. Bu değerlerin ortalamasını hesaplayın. Ardından, listedeki her elemanın ortalamadan büyük mü küçük mü olduğunu kontrol edin ve ortalamanın üstündeki ve altındaki değerleri ayrı ayrı ekrana yazdırın.
+
+10. int ve double tipinde iki sayının toplamını bulan iki farklı metot yazın. Bu metotları kullanarak çeşitli toplama işlemleri yapın ve sonucu ekrana yazdırın.
+
+11. int tipinde bir dizi oluşturun ve bu diziyi sıralayan bir metot yazın. Bu metodu çağırarak sonucu ekrana yazdırın.
+
+12. Bir ArrayList oluşturun ve içine birkaç kelime ekleyin. Her kelimenin içindeki belirli bir harfin sayısını bulan bir metot yazın ve sonucu ekrana yazdırın.
+
+13. Bir ArrayList oluşturun ve içine birkaç Integer değer ekleyin. Bu Integer değerlerin her birinin rakamlarının toplamını hesaplayın ve bu toplamları ekrana yazdırın. Örneğin, listede 123 varsa, rakamların toplamı 6 olmalıdır (1 + 2 + 3).
+
+14. Bir ArrayList oluşturun ve içine birkaç sayı ekleyin. Bu sayılar arasından en küçük ve en büyük sayıları bulun ve sonucu ekrana yazdırın.
+
+15. Bir ArrayList oluşturun ve içine birkaç kelime ekleyin. Listenin başına ve sonuna yeni kelimeler ekleyin, ardından listeyi sıralayın ve sonucu ekrana yazdırın.
+
+16. Bir ArrayList kullanarak kullanıcıdan alınan 10 farklı tam sayıyı saklayın. Bu tam sayılardan kaç tanesinin çift, kaç tanesinin tek olduğunu bulan ve sonucu ekrana yazdıran bir program yazın.
+
+17. Bir ArrayList oluşturun ve içine 10 farklı tam sayı ekleyin. Bu sayıları küçükten büyüğe sıralayın, ardından sıralanmış listeyi tersten yazdırın. Son olarak, listedeki her sayının karesini hesaplayarak yeni bir ArrayList içinde saklayın ve bu listeyi ekrana yazdırın.
+
+18. Bir ArrayList oluşturun ve içine birkaç kelime ekleyin. Her kelimenin uzunluğunu tutan bir ArrayList daha oluşturun ve bu uzunlukları sıralı olarak ekrana yazdırın. Son olarak, en uzun ve en kısa kelimeleri bularak ekrana yazdırın.
+
+19. Bir ArrayList oluşturun ve içine 20 rastgele tam sayı ekleyin. Kullanıcıdan bir sayı alın ve bu sayının listedeki elemanlarla toplamının 100 olduğu tüm çiftleri bulun ve ekrana yazdırın.
+
+20. Bir ArrayList oluşturun ve içine birkaç Double değer ekleyin. Bu değerlerden en büyük ve en küçük olanını bulun. Ardından, listedeki tüm elemanların ortalamasını hesaplayın ve bu ortalamayı ekrana yazdırın. Son olarak, listedeki her elemanı ortalamadan büyük mü küçük mü diye kontrol edin ve sonuçları ayrı ayrı ekrana yazdırın.

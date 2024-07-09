@@ -27,7 +27,6 @@
 
 14) Bir dizideki tek sayıları bulan ve bunları başka bir diziye ekleyen bir metod yazın.
 
-
 15) Bir dizideki elemanları birbirine toplayan ve sonucu döndüren bir metod yazın.
 
 16) İki diziyi birleştiren ve yeni bir dizi oluşturan bir metod yazın.
